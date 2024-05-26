@@ -1,3 +1,3 @@
 # DAW - Entornos-de-desarrollo
 
-Lorem ipsum dolor sit amet, 
+reppositorio que contiene los archivos de la AEA de entornos de desarrollo
